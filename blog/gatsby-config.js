@@ -4,14 +4,14 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: `My Blog`,
+    title: `Sami's Blog`,
     description: `ITDEV-164 Gatsby Blog.`,
-    author: `Jason Heredia`,
+    author: `Samantha Sutter`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
     contact: {
-      name: `Jason Heredia`,
-      company: `Blogs Inc.`,
-      address: `PO Box 1234`
+      name: `Sami Sutter`,
+      company: `Bloggy Mc Bloggerton.`,
+      address: `Walnut Candy Apple Drive`
     }
   },
   plugins: [
